@@ -1,0 +1,16 @@
+{
+  "name": "sui-share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/sui.js": "^0.17.1",
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security"
+  }
+}
